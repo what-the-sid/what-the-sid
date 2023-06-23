@@ -1,27 +1,10 @@
+<h1 align="center">Hi 👋, I'm Sid</h1>
+<h3 align="center">Creative Software Engineer | India</h3>
+
 - 👋 Always keen to see you say @what-the-sid 😱
 - 👀 **S**mart and **I**nnovative **D**eveloper who compiles the knowledge and creativity that outputs compelling software solutions.
 - 🌱 I speak english, But I write Javascript.
 - 📫 Mail me: iamisidharth@gmail.com
-
-
-  github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16180
-Fork on GitHub
-4496
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Sid</h1>
-<h3 align="center">Creative Software Engineer | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=what-the-sid&label=Profile%20views&color=0e75b6&style=flat" alt="what-the-sid" /> </p>
 
