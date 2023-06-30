@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
-<h3 align="center">Creative Software Engineer | India</h3>
+<h3 align="center">Creative Coding Maestro | India</h3>
 
 - 👋 Always keen to see you say @what-the-sid 😱
 - 👀 **S**mart and **I**nnovative **D**eveloper who compiles the knowledge and creativity that outputs compelling software solutions.
