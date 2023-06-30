@@ -3,7 +3,7 @@
 
 - 👋 Always keen to see you say @what-the-sid 😱
 - 👀 **S**mart and **I**nnovative **D**eveloper who compiles the knowledge and creativity that outputs compelling software solutions.
-- 🌱 I speak english, But I write Javascript.
+- 🌱 I speak english, But I write Javascript/Python.
 - 📫 Mail me: iamisidharth@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=what-the-sid&label=Profile%20views&color=0e75b6&style=flat" alt="what-the-sid" /> </p>
