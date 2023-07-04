@@ -2,7 +2,9 @@
 <h3 align="center">Creative Coding Maestro | India</h3>
 
 - 👋 Always keen to see you say @what-the-sid 😱
-- 👀 **S**mart and **I**nnovative **D**eveloper who compiles the knowledge and creativity that outputs compelling software solutions.
+- 👀 I'm a software engineer with a knack for solving problems and hunting down bugs, but when it comes to remembering my own passwords, let's just say I could use some help. 🙈
+
+I'm a specialist in Javascript and Python, but I'm open to coding in any language (I'll even code in ancient languages!) as long as there's an ample supply of coffee involved. ☕️
 - 🌱 I speak english, But I write Javascript/Python.
 - 📫 Mail me: iamisidharth@gmail.com
 
